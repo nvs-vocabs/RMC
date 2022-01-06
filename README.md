@@ -1,5 +1,5 @@
 # RMC
-Argo measurement code categories
+Argo measurement code categories  
 Categories of trajectory measurement codes listed in NVS collection 'R15'.
 
 This vocabulary is available from:
